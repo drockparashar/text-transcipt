@@ -1,0 +1,86 @@
+[
+  {
+    "speaker": "Speaker 1",
+    "text": "Hello,",
+    "start_time": 0,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "world.",
+    "start_time": 600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "This",
+    "start_time": 2300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "is",
+    "start_time": 2700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "a",
+    "start_time": 3100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "sample",
+    "start_time": 3500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "transcript;",
+    "start_time": 3900,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "it",
+    "start_time": 4500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "has",
+    "start_time": 4900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "pauses!",
+    "start_time": 5300,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Yes,",
+    "start_time": 7000,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "indeed.",
+    "start_time": 7600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "No",
+    "start_time": 9300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "no!",
+    "start_time": 9700,
+    "duration": 900
+  }
+]

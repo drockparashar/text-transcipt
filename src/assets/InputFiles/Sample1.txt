@@ -1,0 +1,4 @@
+Speaker 1: Hello, world.
+Speaker 2: This is a sample transcript; it has pauses!
+Speaker 1: Yes, indeed.
+Speaker 3: No no!

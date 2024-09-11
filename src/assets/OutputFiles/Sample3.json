@@ -1,0 +1,1772 @@
+[
+  {
+    "speaker": "Speaker 1",
+    "text": "Hello,",
+    "start_time": 0,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "world.",
+    "start_time": 600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "How",
+    "start_time": 1500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "are",
+    "start_time": 1900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "you",
+    "start_time": 2300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "doing",
+    "start_time": 2700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "today?",
+    "start_time": 3100,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "I'm",
+    "start_time": 4800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "doing",
+    "start_time": 5200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "well,",
+    "start_time": 5600,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "thank",
+    "start_time": 6200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "you!",
+    "start_time": 6600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Just",
+    "start_time": 7500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "working",
+    "start_time": 7900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "on",
+    "start_time": 8300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "some",
+    "start_time": 8700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "projects.",
+    "start_time": 9100,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "That's",
+    "start_time": 10800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "great",
+    "start_time": 11200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "to",
+    "start_time": 11600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "hear.",
+    "start_time": 12000,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "What",
+    "start_time": 12900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "kind",
+    "start_time": 13300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "of",
+    "start_time": 13700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "projects",
+    "start_time": 14100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "are",
+    "start_time": 14500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "you",
+    "start_time": 14900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "working",
+    "start_time": 15300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "on?",
+    "start_time": 15700,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Mainly",
+    "start_time": 17400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "software",
+    "start_time": 17800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "development.",
+    "start_time": 18200,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "I'm",
+    "start_time": 19100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "working",
+    "start_time": 19500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "on",
+    "start_time": 19900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "a",
+    "start_time": 20300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "new",
+    "start_time": 20700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "app",
+    "start_time": 21100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "for",
+    "start_time": 21500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "productivity.",
+    "start_time": 21900,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "That",
+    "start_time": 23600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "sounds",
+    "start_time": 24000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "interesting.",
+    "start_time": 24400,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "Is",
+    "start_time": 25300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "it",
+    "start_time": 25700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "a",
+    "start_time": 26100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "mobile",
+    "start_time": 26500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "app",
+    "start_time": 26900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "or",
+    "start_time": 27300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "a",
+    "start_time": 27700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "web",
+    "start_time": 28100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "application?",
+    "start_time": 28500,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "It's",
+    "start_time": 30200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "a",
+    "start_time": 30600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "web",
+    "start_time": 31000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "application,",
+    "start_time": 31400,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "but",
+    "start_time": 32000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "I'm",
+    "start_time": 32400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "also",
+    "start_time": 32800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "considering",
+    "start_time": 33200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "creating",
+    "start_time": 33600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "a",
+    "start_time": 34000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "mobile",
+    "start_time": 34400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "version.",
+    "start_time": 34800,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "That's",
+    "start_time": 36500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "a",
+    "start_time": 36900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "good",
+    "start_time": 37300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "idea.",
+    "start_time": 37700,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "It",
+    "start_time": 38600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "could",
+    "start_time": 39000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "reach",
+    "start_time": 39400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "a",
+    "start_time": 39800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "wider",
+    "start_time": 40200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "audience.",
+    "start_time": 40600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Absolutely.",
+    "start_time": 42300,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Have",
+    "start_time": 43200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "you",
+    "start_time": 43600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "encountered",
+    "start_time": 44000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "any",
+    "start_time": 44400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "challenges",
+    "start_time": 44800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "with",
+    "start_time": 45200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "the",
+    "start_time": 45600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "development",
+    "start_time": 46000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "so",
+    "start_time": 46400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "far?",
+    "start_time": 46800,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Yes,",
+    "start_time": 48500,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "there",
+    "start_time": 49100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "have",
+    "start_time": 49500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "been",
+    "start_time": 49900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "a",
+    "start_time": 50300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "few.",
+    "start_time": 50700,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Integrating",
+    "start_time": 51600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "some",
+    "start_time": 52000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "features",
+    "start_time": 52400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "has",
+    "start_time": 52800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "been",
+    "start_time": 53200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "tricky.",
+    "start_time": 53600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "What",
+    "start_time": 55300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "kind",
+    "start_time": 55700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "of",
+    "start_time": 56100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "features",
+    "start_time": 56500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "are",
+    "start_time": 56900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "you",
+    "start_time": 57300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "having",
+    "start_time": 57700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "trouble",
+    "start_time": 58100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "with?",
+    "start_time": 58500,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Mainly",
+    "start_time": 60200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "the",
+    "start_time": 60600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "authentication",
+    "start_time": 61000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "system",
+    "start_time": 61400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "and",
+    "start_time": 61800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "user",
+    "start_time": 62200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "permissions.",
+    "start_time": 62600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Those",
+    "start_time": 64300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "can",
+    "start_time": 64700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "be",
+    "start_time": 65100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "complex.",
+    "start_time": 65500,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Have",
+    "start_time": 66400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "you",
+    "start_time": 66800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "looked",
+    "start_time": 67200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "into",
+    "start_time": 67600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "any",
+    "start_time": 68000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "specific",
+    "start_time": 68400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "libraries",
+    "start_time": 68800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "or",
+    "start_time": 69200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "frameworks?",
+    "start_time": 69600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Yes,",
+    "start_time": 71300,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "I've",
+    "start_time": 71900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "been",
+    "start_time": 72300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "exploring",
+    "start_time": 72700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "OAuth",
+    "start_time": 73100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "and",
+    "start_time": 73500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Firebase",
+    "start_time": 73900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "for",
+    "start_time": 74300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "authentication.",
+    "start_time": 74700,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "Both",
+    "start_time": 76400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "are",
+    "start_time": 76800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "good",
+    "start_time": 77200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "choices.",
+    "start_time": 77600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "How",
+    "start_time": 78500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "about",
+    "start_time": 78900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "user",
+    "start_time": 79300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "permissions?",
+    "start_time": 79700,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "For",
+    "start_time": 81400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "permissions,",
+    "start_time": 81800,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "I'm",
+    "start_time": 82400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "considering",
+    "start_time": 82800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "using",
+    "start_time": 83200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "role-based",
+    "start_time": 83600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "access",
+    "start_time": 84000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "control.",
+    "start_time": 84400,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "That",
+    "start_time": 86100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "sounds",
+    "start_time": 86500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "like",
+    "start_time": 86900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "a",
+    "start_time": 87300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "solid",
+    "start_time": 87700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "approach.",
+    "start_time": 88100,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Yes,",
+    "start_time": 89800,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "I",
+    "start_time": 90400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "think",
+    "start_time": 90800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "it",
+    "start_time": 91200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "will",
+    "start_time": 91600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "work",
+    "start_time": 92000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "well",
+    "start_time": 92400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "once",
+    "start_time": 92800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "I",
+    "start_time": 93200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "get",
+    "start_time": 93600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "it",
+    "start_time": 94000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "set",
+    "start_time": 94400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "up",
+    "start_time": 94800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "correctly.",
+    "start_time": 95200,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "I'm",
+    "start_time": 96900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "sure",
+    "start_time": 97300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "you'll",
+    "start_time": 97700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "get",
+    "start_time": 98100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "it",
+    "start_time": 98500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "figured",
+    "start_time": 98900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "out.",
+    "start_time": 99300,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Is",
+    "start_time": 101000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "there",
+    "start_time": 101400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "anything",
+    "start_time": 101800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "else",
+    "start_time": 102200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "you're",
+    "start_time": 102600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "excited",
+    "start_time": 103000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "about",
+    "start_time": 103400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "in",
+    "start_time": 103800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "your",
+    "start_time": 104200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "project?",
+    "start_time": 104600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Yes,",
+    "start_time": 106300,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "I'm",
+    "start_time": 106900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "excited",
+    "start_time": 107300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "about",
+    "start_time": 107700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "the",
+    "start_time": 108100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "data",
+    "start_time": 108500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "visualization",
+    "start_time": 108900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "features.",
+    "start_time": 109300,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "Data",
+    "start_time": 111000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "visualization",
+    "start_time": 111400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "is",
+    "start_time": 111800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "always",
+    "start_time": 112200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "interesting.",
+    "start_time": 112600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "What",
+    "start_time": 113500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "kind",
+    "start_time": 113900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "of",
+    "start_time": 114300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "data",
+    "start_time": 114700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "are",
+    "start_time": 115100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "you",
+    "start_time": 115500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "visualizing?",
+    "start_time": 115900,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Mainly",
+    "start_time": 117600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "user",
+    "start_time": 118000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "activity",
+    "start_time": 118400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "data",
+    "start_time": 118800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "and",
+    "start_time": 119200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "performance",
+    "start_time": 119600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "metrics.",
+    "start_time": 120000,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "That",
+    "start_time": 121700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "sounds",
+    "start_time": 122100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "useful.",
+    "start_time": 122500,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Are",
+    "start_time": 123400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "you",
+    "start_time": 123800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "using",
+    "start_time": 124200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "any",
+    "start_time": 124600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "specific",
+    "start_time": 125000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "tools",
+    "start_time": 125400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "or",
+    "start_time": 125800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "libraries",
+    "start_time": 126200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "for",
+    "start_time": 126600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "visualization?",
+    "start_time": 127000,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "I'm",
+    "start_time": 128700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "planning",
+    "start_time": 129100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "to",
+    "start_time": 129500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "use",
+    "start_time": 129900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "D3.js",
+    "start_time": 130300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "for",
+    "start_time": 130700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "the",
+    "start_time": 131100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "data",
+    "start_time": 131500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "visualizations.",
+    "start_time": 131900,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "D3.js",
+    "start_time": 133600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "is",
+    "start_time": 134000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "a",
+    "start_time": 134400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "powerful",
+    "start_time": 134800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "library.",
+    "start_time": 135200,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "It",
+    "start_time": 136100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "should",
+    "start_time": 136500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "work",
+    "start_time": 136900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "well",
+    "start_time": 137300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "for",
+    "start_time": 137700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "your",
+    "start_time": 138100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "needs.",
+    "start_time": 138500,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "I",
+    "start_time": 140200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "agree.",
+    "start_time": 140600,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "It's",
+    "start_time": 141500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "great",
+    "start_time": 141900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "for",
+    "start_time": 142300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "creating",
+    "start_time": 142700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "interactive",
+    "start_time": 143100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "visualizations.",
+    "start_time": 143500,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Yes,",
+    "start_time": 145200,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "I'm",
+    "start_time": 145800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "looking",
+    "start_time": 146200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "forward",
+    "start_time": 146600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "to",
+    "start_time": 147000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "implementing",
+    "start_time": 147400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "it.",
+    "start_time": 147800,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "Best",
+    "start_time": 149500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "of",
+    "start_time": 149900,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "luck",
+    "start_time": 150300,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "with",
+    "start_time": 150700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "your",
+    "start_time": 151100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "project.",
+    "start_time": 151500,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Thanks!",
+    "start_time": 153200,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "I",
+    "start_time": 154100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "appreciate",
+    "start_time": 154500,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "it.",
+    "start_time": 154900,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Thank",
+    "start_time": 156600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "you!",
+    "start_time": 157000,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "You're",
+    "start_time": 158700,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "welcome.",
+    "start_time": 159100,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "Alright,",
+    "start_time": 160800,
+    "duration": 600
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "I",
+    "start_time": 161400,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "think",
+    "start_time": 161800,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "that's",
+    "start_time": 162200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "all",
+    "start_time": 162600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "for",
+    "start_time": 163000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "now.",
+    "start_time": 163400,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Sounds",
+    "start_time": 165100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "good.",
+    "start_time": 165500,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "Have",
+    "start_time": 167200,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "a",
+    "start_time": 167600,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "great",
+    "start_time": 168000,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "day!",
+    "start_time": 168400,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "You",
+    "start_time": 170100,
+    "duration": 400
+  },
+  {
+    "speaker": "Speaker 1",
+    "text": "too!",
+    "start_time": 170500,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 2",
+    "text": "Bye!",
+    "start_time": 172200,
+    "duration": 900
+  },
+  {
+    "speaker": "Speaker 3",
+    "text": "Bye!",
+    "start_time": 173900,
+    "duration": 900
+  }
+]
